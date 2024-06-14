@@ -1,0 +1,9 @@
+Django==5.0.5
+django-cors-headers==4.3.1
+djangorestframework==3.15.1
+requests==2.31.0
+typing_extensions==4.11.0
+urllib3==2.2.1
+w3lib==2.1.2
+wagtail==6.1
+wagtail-font-awesome-svg==1.0.1
